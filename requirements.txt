@@ -1,0 +1,10 @@
+django==5.1.13
+djangorestframework==3.15.2
+label-studio==1.21.0
+napari==0.6.6
+opencv-python==4.10.0.84
+pandas==2.3.3
+pytesseract==0.3.13
+scikit-image==0.24.0
+scikit-learn==1.7.2
+segment_anything @ git+https://github.com
