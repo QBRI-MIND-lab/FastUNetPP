@@ -244,7 +244,7 @@ please cite the associated paper:
 
 ``` bibtex
 @article{shuaibu2026fastunetpp,
-  title   = {FastUNet++: Efficient Segmentation and Quantitative Morphometry of Brain Organoid Brightfield Images},
+  title   = {Efficient Segmentation and Quantitative Morphometry of Brain Organoid Brightfield Images Using Learned and Handcrafted Methods},
   author  = {TBD},
   journal = {TBD},
   year    = {2026}
