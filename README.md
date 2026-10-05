@@ -77,7 +77,7 @@ FastUNet++/
 The `data/` and `models/` contents can be downloaded separately using the links below:
 
 - **Data:** [Download data](https://hbkuedu-my.sharepoint.com/:f:/g/personal/absh58838_hbku_edu_qa/IgBOC4fhX2t0S7UykDMpPEEVATExQpLJBkopv-CIKZFLRIc?e=Kiip5b)
-- **Models:** [Download models](https://hbkuedu-my.sharepoint.com/:f:/g/personal/absh58838_hbku_edu_qa/IgBgES48shqwS7kkkUeUtKtaAb580JupgKsnkjn5fH2qEYM?e=6NNFln)
+- **Models:** [Download models](https://hbkuedu-my.sharepoint.com/:f:/g/personal/absh58838_hbku_edu_qa/IgBgES48shqwS7kkkUeUtKtaAb580JupgKsnkjn5fH2qEYM?e=LEqMuE)
 
 
 <!-- ------------------------------------------------------------------------ -->
